@@ -2,7 +2,7 @@ The purpose of this repository (my sandbox) is for the storing, testing of, and 
 
 Items I plan to incorporate into this repo:
 
---Webpages (HTML/CSS) about myself with links to my various projects and forms (thml/php) for reaching out to contact me.
+--Webpages (HTML/CSS) about myself with links to my various projects and forms (html/php) for reaching out to contact me.
 
 --my various projects to showcase technical skills, including:
 	*SQL
