@@ -9,6 +9,8 @@ Items I plan to incorporate into this repo:
 	*HTML
 	*CSS
 	*JavaScript
+	
+	
 --practice projects for when learning new skills. Skills I have plans for learning are:
 	*Python
 	*Java
